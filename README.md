@@ -1,2 +1,2 @@
-# humberger-menu
-A humberger menu without using javascript-mobile responsive
+# hamberger-menu
+A hamberger menu without using javascript-mobile responsive
